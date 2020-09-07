@@ -9,3 +9,12 @@ Advanced data structures lectures for computer science students.
 ### Lecture 18 - [Binary Indexed Tree]()
 ### Lecture 19 - [Treap]()
 ### Lecture 20 - [K-Dimensional Tree]()
+
+## Part 4: Advanced Data Structures `[25H]`
+
+### Lecture 21 - [Skip List]()
+### Lecture 22 - [Sparse Table]()
+### Lecture 23 - [B/B+ Tree]()
+### Lecture 24 - [Suffix Array]()
+### Lecture 25 - [Suffix Tree]()
+### Lecture 26 - [Advanced Trees]()
