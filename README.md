@@ -20,6 +20,7 @@ Advanced data structures lectures for computer science students.
 ### Lecture 26 - [Advanced Trees]()
 
 ## Textbooks
+
 * ***Introduction to Algorithms***, Thomas H. Cormen
 * ***Data Structures and Algorithms Annotated Reference***, Granville Barnett and Luca Del Tongo
 * ***Competitive Programming 3***, Steven Halim
