@@ -1,4 +1,4 @@
-# Advanced-Data-Structures
+# Advanced-Data-Structures `60H`
 Advanced data structures lectures for computer science students.
 
 ## Part 3: Advanced Data Structures `[30H]`
