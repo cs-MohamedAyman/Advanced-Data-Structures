@@ -1,7 +1,7 @@
 # Advanced-Data-Structures `60H`
 Advanced data structures lectures for computer science students.
 
-## Part 3: Advanced Data Structures `[30H]`
+## `Part 3:` Advanced Data Structures `30H`
 
 ### Lecture 15 - [Disjoint Set]()
 ### Lecture 16 - [Trie]()
@@ -11,7 +11,7 @@ Advanced data structures lectures for computer science students.
 ### Lecture 20 - [Splay Tree]()
 ### Lecture 21 - [Skip List]()
 
-## Part 4: Advanced Data Structures `[30H]`
+## `Part 4:` Advanced Data Structures `30H`
 
 ### Lecture 22 - [K-Dimensional Tree]()
 ### Lecture 23 - [Sparse Tables]()
@@ -20,6 +20,8 @@ Advanced data structures lectures for computer science students.
 ### Lecture 26 - [Suffix Array]()
 ### Lecture 27 - [Suffix Tree]()
 ### Lecture 28 - [Advanced Trees]()
+
+<img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/organizations-logos/textbook.jpg">
 
 ## Textbooks
 
