@@ -1,3 +1,5 @@
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
+
 # Advanced-Data-Structures `60H`
 Advanced data structures lectures for computer science students.
 
