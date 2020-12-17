@@ -1,5 +1,5 @@
 <img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algorithms.jpg">
 
-# Lecture 19 - Computer Graphics Algorithms (Generating)
+# Lecture 19 - Binary Indexed Tree
 
 ## Table of Content
