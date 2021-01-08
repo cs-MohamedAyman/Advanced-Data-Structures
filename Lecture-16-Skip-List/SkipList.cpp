@@ -43,6 +43,7 @@ struct skiplist
     void print_list();
     bool search_element(int &);
     void insert_element(int &);
+    void delete_element(int &);
 };
 
 /// Function to generate random value
@@ -114,6 +115,39 @@ bool skiplist::search_element(int &s_value)
     }
     x = x->forw[0];
     return x != NULL && x->value == s_value;
+}
+
+/// Delete Function
+
+void skiplist::delete_element(int &value){
+
+    snode *x = header;
+    snode *update[MAX_LEVEL + 1];
+    memset (update, 0, sizeof(snode*) * (MAX_LEVEL + 1));
+    for (int i = level;i >= 0;i--)
+    {
+        while (x->forw[i] != NULL && x->forw[i]->value < value)
+        {
+            x = x->forw[i];
+        }
+        update[i] = x;
+    }
+    x = x->forw[0];
+    if (x->value == value)
+    {
+        for (int i = 0;i <= level;i++)
+        {
+            if (update[i]->forw[i] != x)
+                break;
+            update[i]->forw[i] = x->forw[i];
+        }
+        delete x;
+        while (level > 0 && header->forw[level] == NULL)
+        {
+            level--;
+        }
+    }
+    cout<<value<<" deleted successfully!"<<endl;
 }
 
 /// Print Function
