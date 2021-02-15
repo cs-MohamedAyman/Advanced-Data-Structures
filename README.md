@@ -1,9 +1,9 @@
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
 
-# Advanced-Data-Structures `60H`
+# Advanced-Data-Structures `80H`
 Advanced data structures lectures for computer science students.
 
-## `Part 3:` Advanced Data Structures `30H`
+## `Part 3:` Advanced Data Structures `40H`
 
 ## Lecture 15 - [Disjoint Set]()
 ## Lecture 16 - [Skip List]()
@@ -13,7 +13,7 @@ Advanced data structures lectures for computer science students.
 ## Lecture 20 - [Treap]()
 ## Lecture 21 - [Splay Tree]()
 
-## `Part 4:` Advanced Data Structures `30H`
+## `Part 4:` Advanced Data Structures `40H`
 
 ## Lecture 22 - [AA Tree]()
 ## Lecture 23 - [K-Dimensional Tree]()
