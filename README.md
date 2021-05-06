@@ -1,38 +1,176 @@
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
 
-# Advanced-Data-Structures `80H`
+# Advanced-Data-Structures
 Advanced data structures lectures for computer science students.
 
-<img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
-## `Part 3` Advanced Data Structures `40H`
+## `Part 3` Advanced Data Structures `40 hrs`
 
 ### `Lecture 15` - [Disjoint Set]()
-### `Lecture 16` - [Skip List]()
-### `Lecture 17` - [Trie]()
-### `Lecture 18` - [Segment Tree]()
-### `Lecture 19` - [Binary Indexed Tree]()
-### `Lecture 20` - [Treap]()
-### `Lecture 21` - [Splay Tree]()
+<details>
+  <summary>Agenda</summary><br>
 
-<img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### `Lecture 16` - [Skip List]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### `Lecture 17` - [Trie]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### `Lecture 18` - [Segment Tree]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### `Lecture 19` - [Binary Indexed Tree]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### `Lecture 20` - [Treap]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+### `Lecture 21` - [Splay Tree]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
+<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
-## `Part 4` Advanced Data Structures `40H`
+## `Part 4` Advanced Data Structures `40 hrs`
 
 ### `Lecture 22` - [AA Tree]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
 ### `Lecture 23` - [K-Dimensional Tree]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
 ### `Lecture 24` - [B/B+ Tree]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
 ### `Lecture 25` - [Sparse Tables]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
 ### `Lecture 26` - [Suffix Array]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
 ### `Lecture 27` - [Suffix Tree]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
+
 ### `Lecture 28` - [Advanced Trees]()
+<details>
+  <summary>Agenda</summary><br>
+
+  - 
+  - 
+  - 
+  - 
+  - 
+</details>
 
 <img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
 <br>
 
-## `Assignments` `50H`
+## `Assignments` `5 hrs`/`Assignment`
 
 ### `Assignment 01` - 
 ### `Assignment 02` - 
@@ -45,19 +183,20 @@ Advanced data structures lectures for computer science students.
 ### `Assignment 09` - 
 ### `Assignment 10` - 
 
-<img align="right" width="230" height="200" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
+<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
 <br>
 
-## `Educational-Projects` `80H`
+## `Educational-Projects` `10 hrs`/`Project`
 
-### `Project 01` -
-### `Project 02` -
-### `Project 03` -
-### `Project 04` -
-### `Project 05` -
-### `Project 06` -
-### `Project 07` -
-### `Project 08` -
+|`Project 01` | `Project 02` | `Project 03` | `Project 04` |
+|:----:|:----:|:----:|:----:|
+| | | | |
+| | | | |
+
+|`Project 05` | `Project 06` | `Project 07` | `Project 08` |
+|:----:|:----:|:----:|:----:|
+| | | | |
+| | | | |
 
 <br>
 <img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
