@@ -8,7 +8,7 @@ Advanced data structures lectures for computer science students.
 
 ## `Part 3` Advanced Data Structures `35 hrs`
 
-### `Lecture 15` - [Disjoint Set]()
+### `Lecture 15` - [Disjoint Set](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -19,7 +19,7 @@ Advanced data structures lectures for computer science students.
   - 
 </details>
 
-### `Lecture 16` - [Skip List]()
+### `Lecture 16` - [Skip List](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -30,7 +30,7 @@ Advanced data structures lectures for computer science students.
   - 
 </details>
 
-### `Lecture 17` - [Trie]()
+### `Lecture 17` - [Trie](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -41,7 +41,7 @@ Advanced data structures lectures for computer science students.
   - 
 </details>
 
-### `Lecture 18` - [Segment Tree]()
+### `Lecture 18` - [Segment Tree](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -52,7 +52,7 @@ Advanced data structures lectures for computer science students.
   - 
 </details>
 
-### `Lecture 19` - [Binary Indexed Tree]()
+### `Lecture 19` - [Binary Indexed Tree](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -63,7 +63,7 @@ Advanced data structures lectures for computer science students.
   - 
 </details>
 
-### `Lecture 20` - [Treap]()
+### `Lecture 20` - [Treap](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -74,7 +74,7 @@ Advanced data structures lectures for computer science students.
   - 
 </details>
 
-### `Lecture 21` - [Splay Tree]()
+### `Lecture 21` - [Splay Tree](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -90,7 +90,7 @@ Advanced data structures lectures for computer science students.
 
 ## `Part 4` Advanced Data Structures `35 hrs`
 
-### `Lecture 22` - [AA Tree]()
+### `Lecture 22` - [AA Tree](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -101,7 +101,7 @@ Advanced data structures lectures for computer science students.
   - 
 </details>
 
-### `Lecture 23` - [K-Dimensional Tree]()
+### `Lecture 23` - [K-Dimensional Tree](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -112,7 +112,7 @@ Advanced data structures lectures for computer science students.
   - 
 </details>
 
-### `Lecture 24` - [B/B+ Tree]()
+### `Lecture 24` - [B/B+ Tree](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -123,7 +123,7 @@ Advanced data structures lectures for computer science students.
   - 
 </details>
 
-### `Lecture 25` - [Sparse Tables]()
+### `Lecture 25` - [Sparse Tables](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -134,7 +134,7 @@ Advanced data structures lectures for computer science students.
   - 
 </details>
 
-### `Lecture 26` - [Suffix Array]()
+### `Lecture 26` - [Suffix Array](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -145,7 +145,7 @@ Advanced data structures lectures for computer science students.
   - 
 </details>
 
-### `Lecture 27` - [Suffix Tree]()
+### `Lecture 27` - [Suffix Tree](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -156,7 +156,7 @@ Advanced data structures lectures for computer science students.
   - 
 </details>
 
-### `Lecture 28` - [Advanced Trees]()
+### `Lecture 28` - [Advanced Trees](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
