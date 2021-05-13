@@ -6,7 +6,7 @@ Advanced data structures lectures for computer science students.
 <img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
-## `Part 3` Advanced Data Structures `40 hrs`
+## `Part 3` Advanced Data Structures `35 hrs`
 
 ### `Lecture 15` - [Disjoint Set]()
 <details>
@@ -88,7 +88,7 @@ Advanced data structures lectures for computer science students.
 <img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 <br>
 
-## `Part 4` Advanced Data Structures `40 hrs`
+## `Part 4` Advanced Data Structures `35 hrs`
 
 ### `Lecture 22` - [AA Tree]()
 <details>
