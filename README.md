@@ -1,12 +1,13 @@
-<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
-
 # Advanced-Data-Structures
 Advanced data structures lectures for computer science students.
 
-<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
+<br>
 <br>
 
 ## `Part 3` Advanced Data Structures `35 hrs`
+
+<img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Lecture 15` - [Disjoint Set](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
 <details>
@@ -85,10 +86,13 @@ Advanced data structures lectures for computer science students.
   - 
 </details>
 
-<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
+<br>
 <br>
 
 ## `Part 4` Advanced Data Structures `35 hrs`
+
+<img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### `Lecture 22` - [AA Tree](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
 <details>
@@ -167,26 +171,34 @@ Advanced data structures lectures for computer science students.
   - 
 </details>
 
-<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
+<br>
 <br>
 
 ## `Assignments` `5 hrs`/`Assignment`
 
-### `Assignment 01` - 
-### `Assignment 02` - 
-### `Assignment 03` - 
-### `Assignment 04` - 
-### `Assignment 05` - 
-### `Assignment 06` - 
-### `Assignment 07` - 
-### `Assignment 08` - 
-### `Assignment 09` - 
-### `Assignment 10` - 
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
 
-<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
+### `Assignment 01` - Divide and Conquer Problems in [codeforces-phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-1)
+### `Assignment 02` - Graph Problems in [codeforces-phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-1)
+### `Assignment 03` - String Problems in [codeforces-phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-1)
+### `Assignment 04` - Data Structure Problems in [codeforces-phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-1)
+### `Assignment 05` - Mathematics Problems in [codeforces-phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-1)
+### `Assignment 06` - Greedy Problems in [codeforces-phase-3-1](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-1)
+### `Assignment 07` - Divide and Conquer Problems in [codeforces-phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-2)
+### `Assignment 08` - Graph Problems in [codeforces-phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-2)
+### `Assignment 09` - String Problems in [codeforces-phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-2)
+### `Assignment 10` - Data Structure Problems in [codeforces-phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-2)
+### `Assignment 11` - Mathematics Problems in [codeforces-phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-2)
+### `Assignment 12` - Greedy Problems in [codeforces-phase-3-2](https://github.com/cs-MohamedAyman/Problem-Solving-Training/tree/master/level-3/codeforces-phase-3-2)
+
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/data-structures.jpg">
+<br>
 <br>
 
 ## `Educational-Projects` `10 hrs`/`Project`
+
+<img align="middle" width="900" height="225" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
 
 |`Project 01` | `Project 02` | `Project 03` | `Project 04` |
 |:----:|:----:|:----:|:----:|
