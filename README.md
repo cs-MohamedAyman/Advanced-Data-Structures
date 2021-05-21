@@ -5,11 +5,11 @@ Advanced data structures lectures for computer science students.
 <br>
 <br>
 
-## `Part 3` Advanced Data Structures `35 hrs`
+## `Part 1` Advanced Data Structures `35 hrs`
 
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
-### `Lecture 15` - [Disjoint Set](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
+### `Lecture 01` - [Disjoint Set](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -20,7 +20,7 @@ Advanced data structures lectures for computer science students.
   - 
 </details>
 
-### `Lecture 16` - [Skip List](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
+### `Lecture 02` - [Skip List](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -31,7 +31,7 @@ Advanced data structures lectures for computer science students.
   - 
 </details>
 
-### `Lecture 17` - [Trie](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
+### `Lecture 03` - [Trie](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -42,7 +42,7 @@ Advanced data structures lectures for computer science students.
   - 
 </details>
 
-### `Lecture 18` - [Segment Tree](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
+### `Lecture 04` - [Segment Tree](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -53,7 +53,7 @@ Advanced data structures lectures for computer science students.
   - 
 </details>
 
-### `Lecture 19` - [Binary Indexed Tree](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
+### `Lecture 05` - [Binary Indexed Tree](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -64,7 +64,7 @@ Advanced data structures lectures for computer science students.
   - 
 </details>
 
-### `Lecture 20` - [Treap](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
+### `Lecture 06` - [Treap](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -75,7 +75,7 @@ Advanced data structures lectures for computer science students.
   - 
 </details>
 
-### `Lecture 21` - [Splay Tree](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
+### `Lecture 07` - [Splay Tree](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -90,11 +90,11 @@ Advanced data structures lectures for computer science students.
 <br>
 <br>
 
-## `Part 4` Advanced Data Structures `35 hrs`
+## `Part 2` Advanced Data Structures `35 hrs`
 
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
-### `Lecture 22` - [AA Tree](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
+### `Lecture 08` - [AA Tree](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -105,7 +105,7 @@ Advanced data structures lectures for computer science students.
   - 
 </details>
 
-### `Lecture 23` - [K-Dimensional Tree](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
+### `Lecture 09` - [K-Dimensional Tree](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -116,7 +116,7 @@ Advanced data structures lectures for computer science students.
   - 
 </details>
 
-### `Lecture 24` - [B/B+ Tree](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
+### `Lecture 10` - [B/B+ Tree](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -127,7 +127,7 @@ Advanced data structures lectures for computer science students.
   - 
 </details>
 
-### `Lecture 25` - [Sparse Tables](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
+### `Lecture 11` - [Sparse Tables](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -138,7 +138,7 @@ Advanced data structures lectures for computer science students.
   - 
 </details>
 
-### `Lecture 26` - [Suffix Array](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
+### `Lecture 12` - [Suffix Array](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -149,7 +149,7 @@ Advanced data structures lectures for computer science students.
   - 
 </details>
 
-### `Lecture 27` - [Suffix Tree](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
+### `Lecture 13` - [Suffix Tree](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -160,7 +160,7 @@ Advanced data structures lectures for computer science students.
   - 
 </details>
 
-### `Lecture 28` - [Advanced Trees](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
+### `Lecture 14` - [Advanced Trees](https://github.com/cs-MohamedAyman/Advanced-Data-Structures/blob/master/Lectures/README.md)
 <details>
   <summary>Agenda</summary><br>
 
@@ -241,9 +241,4 @@ Advanced data structures lectures for computer science students.
 
 <img align="right" width="80" height="50" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
 
-## `YouTube-Playlists`
-
-*
-*
-*
-*
+## [`YouTube-Playlists`](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md)
